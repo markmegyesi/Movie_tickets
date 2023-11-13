@@ -1,0 +1,5 @@
+Buy_ticket/Buy_ticket/__pycache__
+Buy_ticket/db.sqlite3
+Buy_ticket/ticket_buying/__pycache__/
+Buy_ticket/ticket_buying/migrations/
+Buy_ticket/ticket_buying/migrations/__pycache__/0001_initial.cpython-310.pyc
